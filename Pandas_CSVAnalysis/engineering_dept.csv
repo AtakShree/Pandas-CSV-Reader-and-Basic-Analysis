@@ -1,0 +1,10 @@
+employee_id,name,department,gender,age,salary,experience_years,performance_score,join_date,city
+E001,Aarav Sharma,Engineering,Male,28,85000,4,88,2020-03-15,Mumbai
+E003,Rahul Mehta,Engineering,Male,45,120000,20,95,2004-01-10,Bengaluru
+E005,Vikram Singh,Engineering,Male,37,99000,13,82,2011-09-14,Mumbai
+E010,Kavya Menon,Engineering,Female,27,88000,3,85,2021-01-20,Bengaluru
+E013,Rohit Verma,Engineering,Male,24,72000,1,68,2023-07-17,Mumbai
+E017,Karan Malhotra,Engineering,Male,39,110000,15,94,2009-02-14,Delhi
+E021,Manish Agarwal,Engineering,Male,46,115000,22,96,2002-08-19,Mumbai
+E025,Harish Nair,Engineering,Male,25,76000,2,71,2022-11-29,Kochi
+E029,Vivek Tiwari,Engineering,Male,30,91000,6,80,2018-12-04,Pune
